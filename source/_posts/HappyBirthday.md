@@ -2,7 +2,7 @@
 title: 'Happy Birthday to YuanLin'
 date: 2020-04-07 21:40:44
 tags: YuanLin
-cover: /image/post1.png
+cover: https://pic.downk.cc/item/5e8c9606504f4bcb044e863f.png
 coverWidth: 1920
 coverHeight: 1080
 ---

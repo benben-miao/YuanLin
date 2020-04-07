@@ -1,10 +1,10 @@
-avatar: /image/avatar.png # 网站 Logo
+avatar: https://pic.downk.cc/item/5e8c9606504f4bcb044e863b.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
   width: 1920
   height: 1080
 favicon:
-  href: /avatar.png # 网站图标
+  href: https://pic.downk.cc/item/5e8c9606504f4bcb044e863b.png # 网站图标
   type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
