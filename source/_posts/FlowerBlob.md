@@ -15,6 +15,8 @@ Read More
 <iframe style="width:100%;height:450px;box-shadow:0px 0px 10px #eee" frameborder="0" src="https://beautiful-code.netlify.com/flower-rotation/dist/index.html">
 </iframe>
 
+## Code: index.html
+
 ```
 <!DOCTYPE html>
 <html lang="en" >
