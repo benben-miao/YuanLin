@@ -103,8 +103,9 @@ kbd,
 samp {
   font-family: monospace, monospace;
   /* 1 */
-  font-size: 1em;
+  font-size: 3em;
   /* 2 */
+  text-align: left;
 }
 /**
  * Add the correct font size in all browsers.
