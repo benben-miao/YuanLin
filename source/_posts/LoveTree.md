@@ -4,7 +4,7 @@ coverWidth: 1920
 coverHeight: 1080
 date: 2020-04-09 14:10:44
 tags: VR/AR
-cover: https://t1.picb.cc/uploads/2020/04/09/kFa438.png
+cover: https://s1.ax1x.com/2020/04/09/G4jgte.png
 ---
 
 Read More
