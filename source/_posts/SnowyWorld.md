@@ -11,6 +11,5 @@ Read More
 <!-- more -->
 
 ## SnowyWorld
-#### Password: aGCL
 
-<iframe style="width:100%;height:450px;box-shadow:0px 0px 10px #eee;" src="http://mofang.qq.com/index/model?modelID=10156?pwd=aGCL&embed=1" frameborder="0" allowvr allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+<iframe style="width:100%;height:450px;box-shadow:0px 0px 10px #eee;" src="https://mofang.qq.com/iframe?modelId=10157&embed=1" frameborder="0" allowvr allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
