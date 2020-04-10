@@ -12,4 +12,4 @@ Read More
 
 ## 玲珑塔
 
-<iframe style="width:84%;height:450px" src="https://developer.huawei.com/consumer/vector/share/model/116297d9512914ba4ac9ae3aad0f93765" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<iframe style="width:84%;height:450px;box-shadow:0px 0px 10px #eee" src="https://developer.huawei.com/consumer/vector/share/model/116297d9512914ba4ac9ae3aad0f93765" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
