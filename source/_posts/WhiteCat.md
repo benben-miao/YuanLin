@@ -12,7 +12,7 @@ Read More
 
 ## WhiteCat
 
-<iframe src="https://beautiful-code.netlify.com/white-cat/dist/index.html" frameborder="0" style="width:100%;height:450px;box-shadow:0px 0px 10px #eee">
+<iframe src="https://beautiful-code.netlify.com/white-cat/dist/index.html" style="width:100%;height:450px;box-shadow:0px 0px 10px #eee" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen>
 </iframe>
 
 ## Code: index.html
