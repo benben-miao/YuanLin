@@ -12,5 +12,5 @@ Read More
 
 ## Sun Galaxy
 
-<iframe style="width:100%;height:450px;box-shadow:0px 0px 10px #eee;border-radius:5px" src="https://s1.ax1x.com/2020/04/17/JE4PJO.png" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">
+<iframe style="width:100%;height:450px;box-shadow:0px 0px 10px #eee;border-radius:5px" src="https://beautiful-code.netlify.app/webgl-galaxy/dist/index.html" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">
 </iframe>
