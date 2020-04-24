@@ -1,4 +1,4 @@
-avatar: https://pic.downk.cc/item/5e8c9606504f4bcb044e863b.png # 网站 Logo
+avatar: https://s1.ax1x.com/2020/04/24/JDyhkj.png # https://s1.ax1x.com/2020/04/24/JDya0e.png # https://pic.downk.cc/item/5e8c9606504f4bcb044e863b.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
   width: 1920
@@ -40,7 +40,7 @@ menu:
     - icon-info-circle
   播放音乐: 
     - /music
-    - icon-info-circle
+    - icon-coffee
 
 widgets:
 - search
